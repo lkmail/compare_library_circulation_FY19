@@ -17,8 +17,8 @@ Naming for the files should be as follows:
       
 Where: 
 
-•	year is the year of the data being reported
+•	_year_ is the year of the data being reported
 
-•	datasettype indicates whether it is the raw data (i.e., Raw) or the normalized data (i.e., Clean)
+•	_datasettype_ indicates whether it is the raw data (i.e., Raw) or the normalized data (i.e., Clean)
 
-•	librariesbeingcompared is the combination of all included libraries (i.e., All) or two libraries being compared (e.g., WA0068 and WA 0051)
+•	_librariesbeingcompared_ is the combination of all included libraries (i.e., All) or two libraries being compared (e.g., WA0068 and WA 0051)
