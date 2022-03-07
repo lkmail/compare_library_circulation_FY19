@@ -7,7 +7,7 @@ The clean and compiled dataset is available in .csv format. The raw data have al
 - [Naming](#naming)
 - [Data Dictionary](#datadictionary)
 - [Metadata](#metadata)
-- [Security](#security)
+- [Rights](#rights)
 - [Contact](#contact)
 
 ## Naming
@@ -28,8 +28,34 @@ Where:
 | **Variable** | **Variable Name** | **Measurement Unit** | **Allowed Values** | **Definition** |
 | --- | --- | --- | --- | --- |
 
+
 ## Metadata
 Schema Used: Dublin Core
 
 | **Attribute** | **Value** |
 | --- | --- |
+| accessRights | public |
+| conformsTo | DCMIType |
+| coverage | 2019 |
+| created | 2022-03-05 |
+| creator | Lyneea Kmail |
+| date | 2022-03-06 |
+| description | This dataset contains circulation data for four public libraries in cities of similar size in Washington state. It includes total transactions as well as data for physical, electronic, and children's material as reported during the 2019 fiscal year. The intended audience is researchers. This dataset was curated for LIS 545 at the University of Washington during the Winter Quarter of 2022. |
+| format | csv |
+| identifier | https://github.com/lkmail/compare_library_circulation_FY19/blob/main/2019_Clean_Compare_Circ_All.csv  |
+| language | en-US |
+| publisher | Lyneea Kmail |
+| relation | https://github.com/lkmail/compare_library_circulation_FY19 |
+| rights | https://creativecommons.org/publicdomain/zero/1.0/ |
+| source | https://www.imls.gov/search-compare/ |
+| subject | Library circulation analysis; Institute of Museum and Library Services (U.S.); Tacoma Public Library; Everett Public Library (Everett, Wash.); Spokane Public Library; Yakima Valley Regional Library |
+| title | Comparing Circulation Data for 4 Washington State Public Libraries (2019) |
+| type | Dataset |
+
+## Rights
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+## Contact
+Lyneea Kmail
+lkmail@uw.edu
