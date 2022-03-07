@@ -16,6 +16,7 @@ Naming for the files should be as follows:
       year_datasettype_Compare_Circ_librariesbeingcompared
       
 Where: 
+
 •	year is the year of the data being reported
 
 •	datasettype indicates whether it is the raw data (i.e., Raw) or the normalized data (i.e., Clean)
