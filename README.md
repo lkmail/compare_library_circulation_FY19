@@ -5,7 +5,7 @@ The clean and compiled dataset is available in .csv format. The raw data have al
 
 ## Table of Contents
 - [Naming](#naming)
-- [Data Dictionary](#data dictionary)
+- [Data Dictionary](#data_dictionary)
 - [Metadata](#metadata)
 - [Rights](#rights)
 - [Contact](#contact)
