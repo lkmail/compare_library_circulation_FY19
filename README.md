@@ -25,9 +25,14 @@ Where:
 
 ## Data Dictionary
 
-| **Variable** | **Variable Name** | **Measurement Unit** | **Allowed Values** | **Definition** |
+| **Variable Label** | **Variable** | **Variable Type** | **Allowed Values** | **Definition** |
 | --- | --- | --- | --- | --- |
-
+| **Library** | Library name | String | Tacoma Public, Everett Public, Spokane Public, Yakima Valley Regional | Name of the library about which circulation data is being described. Each library is a public library in Washington State that serves a city with a population size ranging from 100,000 to 249,000 in 2019. |
+| **Total_circ_transactions** | Total number of circulation transactions | Integer | N/A | The total number of circulation transactions for the specified public library system.  |
+| **Physical_circ** | Number of physical material circulation transactions | Integer | N/A | The number of circulation transactions for the physical materials in the collection of the specified public library system. |
+| **Electronic_circ** | Number of electronic material circulation transactions | Integer | N/A | The number of circulation transactions for the electronic materials in the collection of the specified public library system. |
+| **Childrens_circ** | Number of children’s material circulation transactions | Integer | N/A | The number of circulation transactions for the children’s materials in the collection of the specified public library system. |
+| **Childrens_as_percent_total** | Children’s material circulation transactions as a percent of total circulation | Integer | 0 - 100 | The percentage of circulation transactions for children’s materials as compared to the total number of circulation transactions for the specified public library system. |
 
 ## Metadata
 Schema Used: Dublin Core
