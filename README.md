@@ -55,7 +55,7 @@ Schema Used: Dublin Core
 | rights | https://creativecommons.org/publicdomain/zero/1.0/ |
 | source | https://www.imls.gov/search-compare/ |
 | subject | Library circulation analysis; Institute of Museum and Library Services (U.S.); Tacoma Public Library; Everett Public Library (Everett, Wash.); Spokane Public Library; Yakima Valley Regional Library |
-| title | Comparing Circulation Data for 4 Washington State Public Libraries (2019) |
+| title | Comparing Circulation Data for Four Washington State Public Libraries (2019) |
 | type | Dataset |
 
 ## Rights
